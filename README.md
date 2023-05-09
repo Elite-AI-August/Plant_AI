@@ -79,5 +79,3 @@ This project is Licensed under `MIT`
 
 
 ### Show your support
-
-Give a ⭐ if you like this website!
